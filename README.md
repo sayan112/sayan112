@@ -23,7 +23,7 @@
 </p>
  🎶'Vibin' to🎧 :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pxfncu3lgumvkhziodxanuvl7m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
